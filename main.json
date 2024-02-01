@@ -1,10 +1,12 @@
 [
   {
+    "id": "8c1b2c3d-4e5f-6a7b-8c9d-1e2f3a4b5c6d",
     "title": "Tech In Web",
-    "description": "O primeiro meetup da Tech In Rio.",
+    "description": "Participou do Tech In Web: O Primeiro meetup da Tech In Rio",
     "image": "https://raw.githubusercontent.com/techinrio/insignias/master/images/badge-tech-in-web.png"
   },
   {
+    "id": "8c1b2c3d-4e5f-6a7b-8c9d-2e2f3a4b5c6d",
     "title": "Data In Rio",
     "description": "O primeiro meetup de dados da Tech In Rio.",
     "image": "https://raw.githubusercontent.com/techinrio/insignias/master/images/badge-data-in-rio.png"
