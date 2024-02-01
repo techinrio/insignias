@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Tech In Web",
+    "description": "O primeiro meetup da Tech In Rio.",
+    "image": "/images/badge-tech-in-web.png"
+  },
+  {
+    "title": "Data In Rio",
+    "description": "O primeiro meetup de dados da Tech In Rio.",
+    "image": "/images/badge-data-in-rio.png"
+  }
+]
